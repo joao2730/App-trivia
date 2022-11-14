@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola: No ingresaste un nombre</string>
+
+    <string name="trivia_welcome_msg">Bienvenido a logo trivia, ingresa tu nombre para comenzar</string>
+    <string name="greeting">Hola, %1$s!</string>
+    <string name="try_again_msg">Bueno, te equivocaste %1$s!,¡Intentalo otra vez!</string>
+    <string name="img_content_description">Whatsapp Logo</string>
+    <string name="write_name">Escriba su nombre</string>
+    <string name="start_button">Comenzar</string>
+    <string name="try_again_btn">Intentarlo otra vez</string>
+    <string name="win_msg">¡Genial %1$s!!, Ganaste</string>
+    <string name="trivia_question_one">A que logo pertenece esta imagen</string>
+
+    <string name="rb_answer_one">Pertenece a Facebook</string>
+    <string name="rb_answer_two">Pertenece a Twitter</string>
+    <string name="rb_answer_three">Pertenece a Whatsapp</string>
+    <string name="rb_answer_four">Pertenece a Instagram</string>
+    <string name="send_btn">Enviar respuesta</string>
+</resources>
